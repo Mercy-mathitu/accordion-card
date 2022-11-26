@@ -1,0 +1,36 @@
+
+.container {
+    margin: 20px;
+}
+
+.desktop-img {
+    position: relative;
+}
+
+.inside-img .arrow {
+position: absolute;
+top: 140px;
+right: 300px;
+} 
+.desktop-img .inside-img {
+    position: absolute;
+    top: 350px;
+    right: 330px;
+}
+
+
+
+.mobile-img {
+    display: none;
+}
+
+
+
+        .attribution {
+            font-size: 11px;
+            text-align: center;
+        }
+    
+        .attribution a {
+            color: hsl(228, 45%, 44%);
+        }
